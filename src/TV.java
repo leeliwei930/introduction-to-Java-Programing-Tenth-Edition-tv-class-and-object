@@ -43,7 +43,7 @@ public class TV {
         this.volumeLevel+=1;
     }
     public void volumeDown(){
-        this.volumeLevel+=1;
+        this.volumeLevel-=1;
     }
 
 
